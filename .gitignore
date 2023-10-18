@@ -1,0 +1,6 @@
+video/*
+yolov7.pt
+results/*/*
+*/__pycache__
+CLIP/notebooks/*.tar.gz
+
